@@ -25,7 +25,7 @@ O conteúdo foi estruturado em seções com navegação simples e imagens ilustr
 
 ## 🚀 Como visualizar
 Você pode acessar o site publicado aqui:  
-👉 [Saúde Mental – GitHub Pages](https://joyceps44.github.io/Site-cuidados-sa-de-mental)
+👉 [Saúde Mental – GitHub Pages](https://joyceps44.github.io/Saude-mental-crise-mundial/)
 
 Ou clonar o repositório e abrir o arquivo `index.html` no navegador:
 ```bash
